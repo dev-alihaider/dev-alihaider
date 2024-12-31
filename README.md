@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open-source projects and AI-driven applications.  
 - 🤔 I’m looking for help with expanding my expertise in GraphQL and Kubernetes.  
 - 💬 Ask me about backend engineering, cloud deployments, or scalable system design!  
-- 📫 How to reach me: [haider@stack360.co](mailto:haider@stack360.co) or (+92) 301 7280977  
+- 📫 How to reach me: [haider@stack360.co](mailto:haider@stack360.co)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’ve contributed to projects impacting healthcare, e-commerce, and automotive industries!  
 
