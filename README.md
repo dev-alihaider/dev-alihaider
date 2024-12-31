@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on scaling modern web applications with Ruby on Rails and React.js.  
 - 🌱 I’m currently learning advanced AI models and Python-based automation.  
 - 👯 I’m looking to collaborate on open-source projects and AI-driven applications.  
-- 🤔 I’m seeking help expanding my web service network.  
+- 🤔 I’m seeking help expanding my web development services network.  
 - 💬 Ask me about backend engineering, cloud deployments, or scalable system design!  
 - 📫 How to reach me: [haider@stack360.co](mailto:haider@stack360.co)
 - 😄 Pronouns: He/Him  
